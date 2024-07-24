@@ -1,8 +1,10 @@
 # fix-dana
 
 Install Magisk Delta Flash Twrp
-On Zygisk
-Enforce DenyList
+
+- On Zygisk
+
+- Enforce DenyList
 
 Module:
 
