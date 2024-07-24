@@ -4,9 +4,12 @@ Install Magisk Delta Flash Twrp
 On Zygisk
 Enforce DenyList
 
-Module -
+Module:
+
 Android Ndk
+
 Shamiko
+
 Play integrity Fix
 
 Install dana/livin/bri version old
